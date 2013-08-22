@@ -1,4 +1,4 @@
-Twitch.tv Stream Assistant
+Guild Wars 2 Trading Post Tracker
 =============
 
 Quick Overview
@@ -21,7 +21,7 @@ So you will need:
 >You may need to install [setuptools](https://pypi.python.org/pypi/setuptools) before you can install the above dependancies.
 
 Once you have everything installed, run:
-    `> path\to\python GW2TPMonitor.py`
+    `> path\to\python GW2TPTracker.py`
 
 Drawbacks and Limitations
 -------------------------
