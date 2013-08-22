@@ -6,7 +6,7 @@ Quick Overview
 
 This program uses the internal API of the GW2 trading post to monitor pricing trends of items on the market. This program was created for pure enjoyment and to allow personal customization on the tracking methods used.
 
-> Note, the program uses an _intenral_ API, thus you need an account within GW2 to get a session key to talk to the API. 
+> Note, the program uses an _internal_ API, thus you need an account within GW2 to get a session key to talk to the API. 
 
 Getting Started
 ---------------
